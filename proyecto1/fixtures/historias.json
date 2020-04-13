@@ -1,0 +1,24 @@
+[
+    {
+        "model" : "proyecto1.Historia" , 
+        "pk" : 1 , 
+        "fields" : { 
+    "name": "jorge duran",
+    "email": "jldb@gmail.com",
+    "title": "portafolio de dibujos",
+    "description": "algunos dibujos para participar en convocatorias de empleo de desarrollo de videojuegos",
+    "created_at": "2019-11-10 23:39:20"
+        }
+    } ,
+    {
+        "model" : "proyecto1.Historia" , 
+        "pk" : 2 , 
+        "fields" : { 
+    "name": "jorge duran 2",
+    "email": "jldb2@gmail.com",
+    "title": "portafolio de dibujos 2",
+    "description": "algunos dibujos para participar en convocatorias de empleo de desarrollo de videojuegos 2",
+    "created_at": "2019-11-10 22:39:20"
+        }
+    }
+]
