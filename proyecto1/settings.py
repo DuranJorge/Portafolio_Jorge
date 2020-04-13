@@ -39,8 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     #'proyecto1',
     'proyecto1.apps.Proyecto1Config',  # <====
-    'rest_framework', # enable rest framework
-    'core'
+    'rest_framework' # enable rest framework
+    #'core'
 ]
 
 MIDDLEWARE = [
